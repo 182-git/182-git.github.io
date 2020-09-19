@@ -1,34 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>摘录</title>
-    <url>/oct.github.io/2020/09/16/title/</url>
-    <content><![CDATA[<p>我见过春日夏风，秋月冬雪，也曾踏遍南水北山，东麓西岭，可这四季春秋，苍山央水，都不及你对我展眉一笑<a id="more"></a></p>
-<p>愿你三冬暖<br>愿你春不寒<br>愿你天黑有灯 下雨有伞<br>愿你人生路上有良人相伴<br>愿你所有快乐 无需假装<br>愿你此生尽兴 赤诚善良<br>愿你生活常温暖 日子也总是温柔又闪光<br>愿你的时光清新如夏<br>愿你的岁月安好不容倾塌<br>愿你惦记的人能跟你道声晚安 独闯的日子里不孤单<br>愿你所到之处遍地阳光<br>愿你梦的远方温暖为向<br>愿你出走半生归来仍是少年</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>摘录</title>
+      <link href="/oct.github.io/2020/09/16/title/"/>
+      <url>/oct.github.io/2020/09/16/title/</url>
+      
+        <content type="html"><![CDATA[<p>我见过春日夏风，秋月冬雪，也曾踏遍南水北山，东麓西岭，可这四季春秋，苍山央水，都不及你对我展眉一笑<a id="more"></a></p><p>愿你三冬暖<br>愿你春不寒<br>愿你天黑有灯 下雨有伞<br>愿你人生路上有良人相伴<br>愿你所有快乐 无需假装<br>愿你此生尽兴 赤诚善良<br>愿你生活常温暖 日子也总是温柔又闪光<br>愿你的时光清新如夏<br>愿你的岁月安好不容倾塌<br>愿你惦记的人能跟你道声晚安 独闯的日子里不孤单<br>愿你所到之处遍地阳光<br>愿你梦的远方温暖为向<br>愿你出走半生归来仍是少年</p>]]></content>
+      
+      
       <categories>
-        <category>生活记录</category>
+          
+          <category> 生活记录 </category>
+          
       </categories>
-      <tags>
-        <tag>生活记录</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/oct.github.io/2020/09/16/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 生活记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
