@@ -5,6 +5,8 @@ body {
   font-size: 16px;
   font-family: Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, 'PingFang SC', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   -webkit-tap-highlight-color: transparent;
+  background-image: url("../img/shan.gif");
+  background-attachment: fixed;
 }
 ::selection {
   background: #c0d4fc;
@@ -536,6 +538,7 @@ li {
   height: auto;
   margin: 0 auto;
   line-height: 2;
+  background-color: #101428;
 }
 .post-title {
   text-align: center;
@@ -565,6 +568,9 @@ li {
 }
 .post-meta-item a {
   color: var(--meta);
+}
+.content p {
+  color: #bbb;
 }
 p {
   color: var(--text);
