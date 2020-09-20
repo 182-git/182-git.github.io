@@ -170,7 +170,7 @@
 <header class="header">
         
             <div class="logo">
-                    <a href="/oct.github.io/"><img src="http://file.qqtouxiang.com/nansheng/2020-06-30/2447f0d82b111ef0f938dc37d878163d.jpg" onerror=this.onerror=null,this.src="/oct.github.io/img/loading.gif"></a>
+                    <a href="/oct.github.io/"><img src="http://file.qqtouxiang.com/qinglv/2020-07-21/29f55812be2d2d5332d44f3e2f179d1a.jpeg" onerror=this.onerror=null,this.src="/oct.github.io/img/loading.gif"></a>
             </div>
          
     </div>
@@ -206,6 +206,9 @@
             </div>
      
 </header>
+
+
+
 
     
 
@@ -269,6 +272,7 @@
             
 </nav>
 
+	
     
 <a id="gotop" href="javascript:" title="返回顶部"><i class="fa fa-arrow-up"></i></a>
     
@@ -304,7 +308,18 @@
   
     <script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script>
   
-
+<script src="<%- node_modules.lib.js.typed %>"></script> //引入js文件
+<script>
+var options = {
+    strings: [' <%- config.description %>', ' <%- config.descriptionEN %>'],
+    typeSpeed: 120, //打印的速度。数值越大，速度越慢
+    loop: true, //开启循环
+    loopCount: Infinity, //设置循环次数，值为：Infinity，也可以使用数值
+    backSpeed: 20, //延迟时间后才后退，值越大，延迟的时间就越长
+    cursorChar: '^' //光标的符号，比如：
+};
+var typed = new Typed('#description', options);
+</script>
  
 
   <script src="/oct.github.io/js/local-search.js"></script>
