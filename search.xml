@@ -13,4 +13,23 @@
         <tag>生活记录</tag>
       </tags>
   </entry>
+  <entry>
+    <title>前端小知识</title>
+    <url>/oct.github.io/2020/09/18/%E5%89%8D%E7%AB%AF%E5%B0%8F%E7%9F%A5%E8%AF%86/</url>
+    <content><![CDATA[<h2 id="前端小知识"><a href="#前端小知识" class="headerlink" title="前端小知识"></a>前端小知识</h2> <a id="more"></a>
+<p>1.1em=16px（浏览器默认值）</p>
+<p>2.在 before 或 after 伪类中使用字体图标时，记得设置 font-weight，否则显示不出来</p>
+<p>3.oncontextmenu=”return false” 在<br>标签中用来取消鼠标右键</p>
+<p>4.使用数学运算的时候，可以先查看 Math 对象。运行速度比用 js 算快。</p>
+<p>5.使用缓存机制来提升页面回访效率。</p>
+<p>6.jquery 在 1.9 开始的版本都不支持 live()和 bind()方法了，全部都改成 on()方法</p>
+<p>7.延迟脚本<br>  HTML4.01 为 script 标签定义了 defer 属性，这个属性的用途是表明脚本在执行时不会影响页面的构造。脚本会被延迟到整个页面都解析完毕后再运行</p>
+<!-- ![upload successful](\oct.github.io\images\pasted-6.png) -->]]></content>
+      <categories>
+        <category>Web</category>
+      </categories>
+      <tags>
+        <tag>Web</tag>
+      </tags>
+  </entry>
 </search>
