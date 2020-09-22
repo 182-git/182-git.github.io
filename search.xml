@@ -24,7 +24,10 @@
 <p>5.使用缓存机制来提升页面回访效率。</p>
 <p>6.jquery 在 1.9 开始的版本都不支持 live()和 bind()方法了，全部都改成 on()方法</p>
 <p>7.延迟脚本<br>  HTML4.01 为 script 标签定义了 defer 属性，这个属性的用途是表明脚本在执行时不会影响页面的构造。脚本会被延迟到整个页面都解析完毕后再运行</p>
-<!-- ![upload successful](\oct.github.io\images\pasted-6.png) -->]]></content>
+<!--  ![description][1]
+  [1]:picture_path " pasted-0.png" -->
+<!-- ![upload successful](\oct.github.io\images\pasted-6.png) -->
+]]></content>
       <categories>
         <category>Web</category>
       </categories>
