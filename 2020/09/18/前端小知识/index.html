@@ -208,13 +208,14 @@
 	
 	<!-- 引入 -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+
 </header>
 
 
 
 
 		<script type="text/javascript"
-		color="11,189,227" opacity='1' zIndex="-2" count="100" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"></script>
+		color="11,189,227" opacity='1' zIndex="-10" count="84" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"></script>
 		<!-- {% if theme.canvas_nest %} -->
 		<!-- <script type="text/javascript" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"></script> -->
 		<!-- {% endif %} -->
@@ -229,7 +230,7 @@
         <span title="发表于 2020.09.18"><i class="far fa-calendar-alt"></i> 2020.09.18</span>
       </div>
       <div class="post-meta-item updated">
-        <span title="更新于 2020.09.22"><i class="far fa-calendar-check"></i> 2020.09.22</span>
+        <span title="更新于 2020.09.24"><i class="far fa-calendar-check"></i> 2020.09.24</span>
       </div>
      
     
@@ -242,7 +243,7 @@
     
      <div class="post-meta-item wordcount">
         
-          <i class="fas fa-pencil-alt"></i> <span class="post-count">191 字</span>
+          <i class="fas fa-pencil-alt"></i> <span class="post-count">321 字</span>
            
         
           <i class="far fa-clock"></i> <span class="post-count">1 分钟</span>
@@ -262,9 +263,11 @@
 <p>5.使用缓存机制来提升页面回访效率。</p>
 <p>6.jquery 在 1.9 开始的版本都不支持 live()和 bind()方法了，全部都改成 on()方法</p>
 <p>7.延迟脚本<br>  HTML4.01 为 script 标签定义了 defer 属性，这个属性的用途是表明脚本在执行时不会影响页面的构造。脚本会被延迟到整个页面都解析完毕后再运行</p>
-<!--  ![description][1]
-  [1]:picture_path " pasted-0.png" -->
-<!-- ![upload successful](\oct.github.io\images\pasted-6.png) -->
+<p>8.document 代表的是整个文档(对于一个网页来说包括整个网页结构)，</p>
+<p>9.document.documentElement 是整个文档节点树的根节点，在网页中即 html 标签；</p>
+<p>10.document.body 是整个文档 DOM 节点树里的 body 节点，网页中即为 body 标签元素。</p>
+<p>11.在文档使用了 DTD 时，document.body.scrollTop 的值为 0，此时需要使用 document.documentElement.scrollTop 来获取滚动条滚过的长度；在未使用 DTD 定义文档时，使用 document.body.scrollTop 获取值。</p>
+<p><img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2799080333,3615638128&fm=26&gp=0.jpg" alt="图片正在加载..."></p>
 </div>
         
           <div class="post-copyright">
@@ -316,6 +319,10 @@
       
     </div>
     <div class="post-nav">
+      
+        <div class="post-nav-prev post-nav-item">
+            <a href="/oct.github.io/2020/09/24/%E7%94%A8-%E7%9A%84Linux-%E5%91%BD%E4%BB%A4/" >常用 的Linux 命令<i class="fa fa-chevron-left"></i></a>
+        </div>
       
       
         <div class="post-nav-next post-nav-item">
