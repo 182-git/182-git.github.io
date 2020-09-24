@@ -14,6 +14,73 @@
       </tags>
   </entry>
   <entry>
+    <title>干货</title>
+    <url>/oct.github.io/2020/09/24/%E5%B9%B2%E8%B4%A7/</url>
+    <content><![CDATA[<h1 id="分享几个比较实用的网站"><a href="#分享几个比较实用的网站" class="headerlink" title="分享几个比较实用的网站"></a>分享几个比较实用的网站</h1><ul>
+<li>感兴趣的可以收藏一下<a id="more"></a>
+<h2 id="技术社区"><a href="#技术社区" class="headerlink" title="技术社区"></a>技术社区</h2><ul>
+<li><strong>知乎</strong>  知乎是中文互联网知名的可信赖问答社区 <a href="https://www.zhihu.com/signin?next=/">链接</a> </li>
+<li><strong>segmentfault</strong> 学习技能、解决问题  <a href="https://segmentfault.com/">链接</a></li>
+<li><strong>博客园</strong> 博客模式的技术分享社区 <a href="https://www.cnblogs.com/">链接</a></li>
+<li><strong>CSDN</strong> 中国最大的IT社区和服务平台<a href="https://www.csdn.net/">链接</a></li>
+<li><strong>牛客网</strong>  IT笔试面试备考平台<a href="https://www.nowcoder.com/">链接</a></li>
+<li><strong>开源中国</strong>  目前中国最大的开元技术社区<a href="https://www.oschina.net/">链接</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="插件-特效"><a href="#插件-特效" class="headerlink" title="插件 / 特效"></a>插件 / 特效</h2><ul>
+<li><strong>jQuery</strong>  自由分享<a href="(http://www.htmleaf.com/">链接</a></li>
+<li><strong>GitHub</strong>  分布式版本控制系统<a href="https://github.com/">链接</a></li>
+</ul>
+<h2 id="图库-灵感"><a href="#图库-灵感" class="headerlink" title="图库 / 灵感"></a>图库 / 灵感</h2><ul>
+<li><strong>花瓣</strong> 寻找灵感的天堂<a href="https://huaban.com/">链接</a></li>
+<li><strong>unsplash</strong> 国外免费高清图库<a href="https://unsplash.com/">链接</a></li>
+<li><strong>123RF</strong> 正版创意图片素材服务<a href="https://www.123rf.com.cn/">链接</a><h2 id="图标-Icon"><a href="#图标-Icon" class="headerlink" title="图标 / Icon"></a>图标 / Icon</h2></li>
+<li><strong>iconfont</strong> 图标库<a href="http://www.easyicon.net/">链接</a>  </li>
+<li><strong>懒人图库</strong> 提供网页素材<a href="https://www.lanrentuku.com/">链接</a>  <h2 id="UI框架"><a href="#UI框架" class="headerlink" title="UI框架"></a>UI框架</h2></li>
+<li><strong>Bootstrap</strong> 最受欢迎的 HTML、CSS 和 JS 框架<a href="https://www.bootcss.com/">链接</a>  </li>
+<li><strong>jQuery UI</strong> jQuery UI<a href="http://jqueryui.com/">链接</a></li>
+<li><strong>Layui</strong> 经典模块前端框架<a href="https://www.layui.com/">链接</a></li>
+</ul>
+<h2 id="JS框架"><a href="#JS框架" class="headerlink" title="JS框架"></a>JS框架</h2><ul>
+<li><strong>Vusjs</strong> 轻量高效的前端组件化方案 <a href="https://cn.vuejs.org/">链接</a></li>
+<li><strong>Hilo</strong> 双十一H5互动游戏解决方案<a href="http://hiloteam.github.io/index.html">链接</a></li>
+<li><strong>Angular</strong> google出品的js前端框架<a href="https://angular.cn/">链接</a> </li>
+</ul>
+<h2 id="后端编程"><a href="#后端编程" class="headerlink" title="后端编程"></a>后端编程</h2><ul>
+<li><del><strong>PHP</strong></del> 可以快速上手，相比其他语言，可以更快的为应用添加各种新功能。当然，可维护性就另当别论了。 <a href="https://www.php.net/">链接</a> </li>
+<li><strong>Ruby</strong> 一种面向对象程序设计的脚本语言<a href="https://www.runoob.com/ruby/ruby-intro.html">链接</a></li>
+<li><strong>Java</strong> Java是一门面向对象编程语言<a href="https://www.runoob.com/java/java-tutorial.html">链接</a></li>
+<li><strong>Golang</strong> 计算机编程语言<a href="https://www.runoob.com/go/go-tutorial.html">链接</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>生活记录</category>
+      </categories>
+      <tags>
+        <tag>生活记录</tag>
+        <tag>HTML</tag>
+        <tag>JavaScript</tag>
+        <tag>CSS</tag>
+        <tag>Segmentfault</tag>
+        <tag>Java</tag>
+        <tag>jQuery</tag>
+        <tag>GitHub</tag>
+        <tag>unsplash</tag>
+        <tag>123RF</tag>
+        <tag>iconfont</tag>
+        <tag>Layui</tag>
+        <tag>Bootstrap</tag>
+        <tag>Vus</tag>
+        <tag>Hilo</tag>
+        <tag>Angular</tag>
+        <tag>PHP</tag>
+        <tag>Ruby</tag>
+        <tag>Golang</tag>
+        <tag>Algolia`</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>常用 的Linux 命令</title>
     <url>/oct.github.io/2020/09/24/%E7%94%A8-%E7%9A%84Linux-%E5%91%BD%E4%BB%A4/</url>
     <content><![CDATA[<h1 id="常用-Linux-命令的基本使用"><a href="#常用-Linux-命令的基本使用" class="headerlink" title="常用 Linux 命令的基本使用"></a>常用 Linux 命令的基本使用</h1><ul>
@@ -1112,6 +1179,12 @@ gzip
 <p>所谓镜像源，就是<strong>所有服务器的内容是相同的（镜像）</strong>，但是根据所在位置不同，国内服务器通常速度会更快一些！</p>
 </blockquote>
 ]]></content>
+      <categories>
+        <category>Linux</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
   </entry>
   <entry>
     <title>前端小知识</title>
