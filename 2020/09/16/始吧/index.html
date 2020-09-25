@@ -21,7 +21,7 @@
 
   
 
-  <title>标签: Vus | 感谢经历</title>
+  <title>那就开始吧 | 感谢经历</title>
 
   
 
@@ -220,35 +220,104 @@
 		<!-- <script type="text/javascript" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"></script> -->
 		<!-- {% endif %} -->
     
-<div class="post-wrap archive">
+<article id="post">
+  <div class="post-title">那就开始吧</div>
+  <div class="post-meta">
+	
     
     
-        
-        
-        <div class="yearzodiac">
-                <div class="years">
-                  <h1>2020  <i class="symbolic-animals icon-rat"></i></h1>
-                </div>
-        </div>
-        
-        <li class="archive-item">
-            <a class="archive-item-link" href="/oct.github.io/2020/09/24/%E5%B9%B2%E8%B4%A7/">干货</a>
-            <span class="archive-item-date">2020-09-24</span>
-        </li>
+      <div class="post-meta-item date">
+        <span title="发表于 2020.09.16"><i class="far fa-calendar-alt"></i> 2020.09.16</span>
+      </div>
+      <div class="post-meta-item updated">
+        <span title="更新于 2020.09.16"><i class="far fa-calendar-check"></i> 2020.09.16</span>
+      </div>
+     
     
-    <div class="arc_pag">
-       <nav class="paginator">
-      
-            
-</nav>
-
-     </div>
+      <div class="post-meta-item categories">
+        
+          <i class="fas fa-inbox article-meta__icon"></i> <a href="/oct.github.io/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/">生活记录</a>
+        
+      </div>
+     
+    
+     <div class="post-meta-item wordcount">
+        
+          <i class="fas fa-pencil-alt"></i> <span class="post-count">73 字</span>
+           
+        
+          <i class="far fa-clock"></i> <span class="post-count">1 分钟</span>
+                               
+      </div>
+     
 </div>
 
 
+  
+  <div class="content">
+        <div><p>这是我的第一篇博客</p>
+<a id="more"></a>
+<p>由于本人没有写博客的习惯。但是，<br>看了很多别人的博客，看到别人的一些开发历程，就会发现自己的一些不足。<br>还是想坚持下来，所以，这篇博客就由此诞生了。<br><img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3753671072,2774353963&fm=26&gp=0.jpg"></p>
+</div>
+        
+          <div class="post-copyright">
+                  <div class="copyright-item">
+                      <span> 作者: Cure</span>
+                  </div>
+                  <div class="copyright-item">
+                      <span> 链接: <a href="https://182-git.github.io/oct.github.io/2020/09/16/%E5%A7%8B%E5%90%A7/">https://182-git.github.io/oct.github.io/2020/09/16/%E5%A7%8B%E5%90%A7/</a></span>
+                  </div>
+                  <div class="copyright-item">
+                      <span> 声明: 本博客所有文章除特别声明外，均采用许可协议 <a target="_blank" rel="noopener" href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> 转载请注明出处！</span>
+                  </div>
+          </div>
+        
+  </div>
+
+  <div class="share-reward">
+    <div class="share">
+        
+<div class="social-share" data-sites="facebook,twitter,wechat,weibo,qq"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css">
+<script src="https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js"></script>
 
 
-
+      </div>
+        <div class="reward">
+          
+  <div style="padding: 10px 0; margin-left: 20px; width: 90%; text-align: center;">
+    <div class="reward-content">
+        <ul id="donateBox" class="list pos-a">
+          
+           <li id="PayPal"><a href="http://www.pxjrx.club" target="_blank" title="贝宝">贝宝</a></li>
+            
+              
+                     
+          </ul>
+        <div id="QRBox" class="pos-f left-100">
+          <div id="MainBox"></div>
+        </div>
+    </div>
+  </div>
+  
+        </div>
+    </div>
+    
+    <div class="post_tags">
+      
+        <i class="fas fa-tag"></i> <a href="/oct.github.io/tagsc/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/" class="tag">生活记录</a>
+      
+    </div>
+    <div class="post-nav">
+      
+        <div class="post-nav-prev post-nav-item">
+            <a href="/oct.github.io/2020/09/16/title/" >摘录<i class="fa fa-chevron-left"></i></a>
+        </div>
+      
+      
+    </div>
+      
+</article>
 
     
 <a id="gotop" href="javascript:" title="返回顶部"><i class="fa fa-arrow-up"></i></a>
@@ -399,6 +468,45 @@ if (document.getElementsByClassName('mermaid').length) {
   
 
 
+  <script>
+    jQuery(document).ready(function () {
+      var QRBox = $('#QRBox');
+      var MainBox = $('#MainBox');
+      var AliPayQR = '';
+      var WeChanQR = '';
+
+      function showQR(QR) {
+        if (QR) {
+          MainBox.css('background-image', 'url(' + QR + ')');
+        }
+        $('#donateBox').addClass('blur');
+        QRBox.fadeIn(300, function (argument) {
+          MainBox.addClass('showQR');
+        });
+      }
+
+      $('#donateBox>li').click(function (event) {
+        var thisID = $(this).attr('id');
+        if (thisID === 'AliPay') {
+          showQR(AliPayQR);
+        } else if (thisID === 'WeChat') {
+          showQR(WeChanQR);
+        }
+      });
+
+      MainBox.click(function (event) {
+        MainBox.removeClass('showQR').addClass('hideQR');
+        setTimeout(function (a) {
+          QRBox.fadeOut(300, function (argument) {
+            MainBox.removeClass('hideQR');
+          });
+          $('#DonateText,#donateBox,#github').removeClass('blur');
+        }, 600);
+
+      });
+    });
+  </script>
+  
 
 
 

@@ -55,7 +55,7 @@
 </ul>
 ]]></content>
       <categories>
-        <category>生活记录</category>
+        <category>程序猿</category>
       </categories>
       <tags>
         <tag>生活记录</tag>
@@ -71,13 +71,13 @@
         <tag>iconfont</tag>
         <tag>Layui</tag>
         <tag>Bootstrap</tag>
-        <tag>Vus</tag>
         <tag>Hilo</tag>
         <tag>Angular</tag>
         <tag>PHP</tag>
         <tag>Ruby</tag>
         <tag>Golang</tag>
         <tag>Algolia`</tag>
+        <tag>Vuejs</tag>
       </tags>
   </entry>
   <entry>
@@ -1208,6 +1208,20 @@ gzip
       </categories>
       <tags>
         <tag>Web</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>那就开始吧</title>
+    <url>/oct.github.io/2020/09/16/%E5%A7%8B%E5%90%A7/</url>
+    <content><![CDATA[<p>这是我的第一篇博客</p>
+<a id="more"></a>
+<p>由于本人没有写博客的习惯。但是，<br>看了很多别人的博客，看到别人的一些开发历程，就会发现自己的一些不足。<br>还是想坚持下来，所以，这篇博客就由此诞生了。<br><img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3753671072,2774353963&fm=26&gp=0.jpg"></p>
+]]></content>
+      <categories>
+        <category>生活记录</category>
+      </categories>
+      <tags>
+        <tag>生活记录</tag>
       </tags>
   </entry>
 </search>
