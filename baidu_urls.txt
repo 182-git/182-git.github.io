@@ -1,5 +1,5 @@
-http://yoursite.com/2020/09/24/%E5%B9%B2%E8%B4%A7/
-http://yoursite.com/2020/09/24/%E7%94%A8-%E7%9A%84Linux-%E5%91%BD%E4%BB%A4/
-http://yoursite.com/2020/09/18/%E5%89%8D%E7%AB%AF%E5%B0%8F%E7%9F%A5%E8%AF%86/
-http://yoursite.com/2020/09/16/title/
-http://yoursite.com/2020/09/16/%E5%A7%8B%E5%90%A7/
+https://182-git.github.io/2020/09/24/%E5%B9%B2%E8%B4%A7/
+https://182-git.github.io/2020/09/24/%E7%94%A8-%E7%9A%84Linux-%E5%91%BD%E4%BB%A4/
+https://182-git.github.io/2020/09/18/%E5%89%8D%E7%AB%AF%E5%B0%8F%E7%9F%A5%E8%AF%86/
+https://182-git.github.io/2020/09/16/title/
+https://182-git.github.io/2020/09/16/%E5%A7%8B%E5%90%A7/
